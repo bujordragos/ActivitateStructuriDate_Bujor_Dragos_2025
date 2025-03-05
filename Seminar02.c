@@ -131,7 +131,6 @@ int main() {
     afisare(primaMasina);
     free(primaMasina.sofer);
 
-    //testt
 
     return 0;
 }
