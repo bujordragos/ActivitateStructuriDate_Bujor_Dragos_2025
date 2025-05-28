@@ -1,0 +1,7 @@
+RO123,Paris,2025-04-15,10:30,Intarziat
+LH456,Berlin,2025-04-15,11:00,La timp
+AF789,Lyon,2025-04-15,12:15,Anulat
+BA012,Londra,2025-04-16,09:00,La timp
+TK345,Istanbul,2025-04-16,14:45,Intarziat
+AZ678,Roma,2025-04-16,16:00,Anulat
+KL910,Amsterdam,2025-04-17,08:15,La timp
