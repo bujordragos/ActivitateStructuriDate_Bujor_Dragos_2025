@@ -168,7 +168,7 @@ void dezalocareHeap(Heap* heap) {
 
 void inserareInLista(Nod** lista, Masina m)
 {
-	Nod* nou = malloc(sizeof(Nod));
+	Nod* nou = (Nod*)malloc(sizeof(Nod));
 	nou->masina = m;
 	nou->next = (*lista);
 	(*lista) = nou;

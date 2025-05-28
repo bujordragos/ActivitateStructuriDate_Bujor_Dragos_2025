@@ -190,7 +190,7 @@ char* getNumeSoferMasinaScumpa(Lista lista) {
             }
             p = p->next;
         }
-        char* nume = malloc(strlen(masinaScumpa->info.numeSofer) + 1);
+        char* nume = (char*)malloc(strlen(masinaScumpa->info.numeSofer) + 1);
         strcpy(nume, masinaScumpa->info.numeSofer);
         return nume;
     }

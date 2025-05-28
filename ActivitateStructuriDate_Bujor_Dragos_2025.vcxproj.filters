@@ -13,13 +13,61 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Fisiere vechi">
+      <UniqueIdentifier>{54240bed-7862-4990-9f19-32494433080a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pregatire">
+      <UniqueIdentifier>{8b031daf-a187-4e9c-b66f-511888f30eec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Seminar01.c">
-      <Filter>Source Files</Filter>
+      <Filter>Fisiere vechi</Filter>
     </ClCompile>
     <ClCompile Include="Seminar02.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar03.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar04.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar05.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Pregatire_Test_si_Examen\CursaAeriana.c">
+      <Filter>Pregatire</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar06.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar08.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar09.c">
+      <Filter>Fisiere vechi</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar10.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskuriSuplimentare.c">
+      <Filter>Pregatire</Filter>
+    </ClCompile>
+    <ClCompile Include="AplicatieMobila.c">
+      <Filter>Pregatire</Filter>
+    </ClCompile>
+    <ClCompile Include="B5_G1054_Bujor_Dragos.c">
+      <Filter>Pregatire</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComenziSite.c">
+      <Filter>Pregatire</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
